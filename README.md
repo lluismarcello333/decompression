@@ -1,2 +1,2 @@
-# decompression
-Projeto de Jogos em Python
+# Decompression
+Jogos em Python
